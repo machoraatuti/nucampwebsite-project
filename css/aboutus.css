@@ -1,0 +1,49 @@
+.lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  body {
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  h1, h2, h3 {
+   font-family: "Lobster", cursive;
+  }
+  .headingtitle {
+    color: white;
+   }
+  .accordion-button {
+    background-color: #d3d3d3;
+  }
+  
+  h2 {
+   color: #3046C5;
+  }
+  
+  header {
+    padding: 30px;
+    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+    color: white;
+  }
+  .navbar {
+    background-color: #901CAD;
+  }
+  
+  header h2 {
+    color: #CEC8FF;
+  }
+  
+  footer {
+    background-image:linear-gradient(#CEC8FF,white);
+    padding: 20px 0;
+  }
+  
+  .row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+  }
+  
+  
+  
